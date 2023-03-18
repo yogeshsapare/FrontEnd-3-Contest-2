@@ -1,0 +1,42 @@
+h1 {
+    text-align: center;
+}
+.main-butt{
+    text-align: center;
+}
+.main-butt button
+{
+    padding: 20px;
+    background: transparent;
+    color: black;
+    border: 2px solid black;
+   cursor: pointer;
+}
+.main-butt button:hover
+{
+    background: black;
+    color: #ffffff;
+    border: 2px solid black;
+    transition: 0.5s ease all;
+}
+.maincontainer {
+    /* text-align: center; */
+    padding: 80px;
+    border: 2px solid black;
+    border-radius: 20px;
+    margin-top: 20px;
+}
+.maincontainer_two {
+    /* text-align: center; */
+    padding: 80px;
+    border: 2px solid black;
+    border-radius: 20px;
+    margin-top: 20px;
+}
+.maincontainer_three {
+    /* text-align: center; */
+    padding: 80px;
+    border: 2px solid black;
+    border-radius: 20px;
+    margin-top: 20px;
+}
